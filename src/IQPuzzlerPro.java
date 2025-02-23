@@ -196,7 +196,7 @@ public class IQPuzzlerPro {
             this.shape = shape;
         }
         
-        // Transformasi blok Original, Rotasi 90°, Rotasi 180°, Rotasi 270°, dan Mirror Horizontal
+        // Transformasi blok original, rotasi 90, rotasi 180, rotasi 270, dan mirror horizontal
         ArrayList<char[][]> getTransformations() {
             ArrayList<char[][]> list = new ArrayList<>();
             list.add(shape);

@@ -10,12 +10,35 @@ Cara menjalankan Program:
 Pastikan file input terletak pada directory yang sama dengan program yang akan dijalankan, lalu:
 
 Jika menggunakan terminal: 
+Tanpa GUI:
+
 buka terminal
 arahkan ke directory tempat program java disimpan (menggunakan cd, misal: cd Kuliah/SMT 6/Strategi Algoritma)
+
 tuliskan javac IQPuzzlePro.java dan tekan enter
+
 lalu tuliskan java IQPuzzlePro
+
 Maka Program akan berjalan
 
+Dengan GUI:
+arahkan ke directory tempat program java disimpan (menggunakan cd, misal: cd Kuliah/SMT 6/Strategi Algoritma)
+
+tuliskan javac IQPuzzlerPro.java IQPuzzlerProGUI.java dan tekan enter
+
+lalu tuliskan java IQPuzzlerProGUI
+
+Maka Program akan berjalan
+
+
 Jika menggunakan VSCode:
-Buka program dengan VSCode dan tekan "Run"
+
+Tanpa GUI:
+
+Buka file IQPuzzlerPro.java dengan VSCode dan tekan "Run"
+Maka program akan berjalan
+
+dengan GUI:
+
+Buka file IQPuzzlerProGUI.java dengan VSCode dan tekan "Run"
 Maka program akan berjalan
